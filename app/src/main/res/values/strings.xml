@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BHMS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_body">A complete suite to monitor all battery characteristics. Use the button to set a delay value.</string>
+    <string name="about_title">Monitor your battery health</string>
+    <string name="voltage_text">Voltage: %1$d</string>
+    <string name="current_text">Current %1$d</string>
+    <string name="temperature_text">Temperature: %1$d</string>
+    <string name="charge_text">State of charge: %1$d</string>
+    <string name="health_text">State of health: %1$d</string>
+</resources>

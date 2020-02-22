@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "855690349399",
+    "firebase_url": "https://bhms-f93ab.firebaseio.com",
+    "project_id": "bhms-f93ab",
+    "storage_bucket": "bhms-f93ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855690349399:android:fd83472aafdfbb8405cc12",
+        "android_client_info": {
+          "package_name": "com.example.bhms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855690349399-iuh5qc3r6o90uknq3q6gkegfbno4pokc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhms",
+            "certificate_hash": "173cbd793744be8991a0924d1a5bca6e69b8a774"
+          }
+        },
+        {
+          "client_id": "855690349399-uddpfhe9mstpicq5t15ooiobmri3bm3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgA5ogldTEsXAsTPSRIslzz0HHrPFiBkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855690349399-uddpfhe9mstpicq5t15ooiobmri3bm3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
